@@ -43,7 +43,7 @@
 
 2、关注公众号"洞一CyberSecurity"，进行留言，格式：渗透测试Tips-xxxxxxxx。
 
-![123.png](https://github.com/Power7089/PenetrationTest-Tips/blob/main/img/01cyber.jpg)
+![123.png](https://github.com/CYJoe-Cyclone/PenetrationTesttips/blob/main/img/01cyber.jpg)
 
 3、使用本仓库提交Issues，我会定时摘取整理，然后发布到该仓库。
 
@@ -125,7 +125,7 @@ www.baidu.com/{{1+1}}
 
 21、403和401的绕过小技巧：
 
-![c437ffd30e608e079623ee01cf1b4ca](https://github.com/Power7089/PenetrationTest-Tips/blob/main/img/403%E7%BB%95%E8%BF%87.jpg)
+![c437ffd30e608e079623ee01cf1b4ca](https://github.com/CYJoe-Cyclone/PenetrationTesttips/blob/main/img/403%E7%BB%95%E8%BF%87.jpg)
 
 22、盲测目录是否存在，如果存在该目录可能会自动在URL末尾添加`/`补全。
 
@@ -158,7 +158,7 @@ Referer: http://test.com/xxx
 
 27、gopher协议使用限制：
 
-![640.png](https://github.com/Power7089/PenetrationTest-Tips/blob/main/img/GOpher%E5%8D%8F%E8%AE%AE.png)
+![640.png](https://github.com/CYJoe-Cyclone/PenetrationTesttips/blob/main/img/GOpher%E5%8D%8F%E8%AE%AE.png)
 
 28、一款生成gopher协议payload的工具：
 
@@ -864,6 +864,5 @@ shiro反序列化、fastjson反序列化、sql注入外带注入、xss外带注�
 # 贡献团队（根据贡献个数进行排名）
 
 洞一CyberSecurity，无害实验室sec
-
 
 
